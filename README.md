@@ -2,6 +2,9 @@
 
 Relax gaming team presentation slot game made in HTML5 Phaser.
 
+<img width="400" alt="relax gaming slot game screenshot 1" src="https://github.com/dejsan/relax-gaming-team-presentation-slot-game/blob/master/assets/img/relax-gaming-slot-screenshot1.png">
+<img width="400" alt="relax gaming slot game screenshot 2" src="https://github.com/dejsan/relax-gaming-team-presentation-slot-game/blob/master/assets/img/relax-gaming-slot-screenshot2.png">
+
 # How to run
 
 Webserver is required because of security feature of phaser.
